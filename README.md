@@ -52,6 +52,6 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 </div>
 
 ## 📫 How to reach me:
-[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" alt="linux" width="64" height="64"/>  ](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png) 
-[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" alt="linux" width="64" height="64"/> ](parsab71@gmail.com)
+[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" alt="linux" width="64" height="64"/>  ](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png) They_callme_Parsa
+[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" alt="linux" width="64" height="64"/> ](parsab71@gmail.com) parsab71@gmail.com
 
