@@ -22,7 +22,7 @@ Interested in art, cinema and storytelling. Love exploring new fields and Ideas,
 ## 🚀 What can I do?
 Well I've two and half years of web-dev specially front-end, I have experienced in working with others, write and debuging in diferent languages, I've some teaching background and I have my on side projects and interests, You can check my repos for more info on that. My expertise is web but as a CS student I have other useful skills too.
 
-## 🪛 What tools I am familiar with? 
+## 🪛 What tools I am using? 
 
  Here is the tools I've experienced working with:
 <div display="flex" justify="center" >
