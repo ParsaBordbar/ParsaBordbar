@@ -33,8 +33,7 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="![nodejs-logo](https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5a1c4ef3-f1b1-4868-a7bb-d27b1df5703e)
-![Uploading nodejs-logo.svg…]()" alt="react" width="75" height="75"/> </a> 
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/2f4f7601-5b5a-4cea-821a-66c37c20e520" alt="react" width="75" height="75"/> </a> 
     
 </div>
 
@@ -43,3 +42,4 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 You can reach me on:
 [Telegram](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png)
 [Gmail](parsab71@gmail.com)
+
