@@ -36,21 +36,19 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
               <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
              <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/19e821f7-a10b-43d4-a15e-8250c5ba40cb" alt="react" width="75" height="75"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/02123b92-ec39-4e35-82c1-9a5dc5b7d0b5" alt="react" width="75" height="75"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/f92ddfc0-611b-433d-9261-f8078005f285" alt="react" width="75" height="75"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/be325712-7df8-4c5e-a7d8-93da3142d977" alt="linux" width="75" height="75"/> </a> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4f4b877d-8e62-4979-97f3-c7b2601ac0da" alt="linux" width="75" height="75"/> </a> 
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/9f2a746c-fac1-4c53-8604-23936f92418c" alt="linux" width="75" height="75"/> </a> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5368df55-d443-46d3-ae4c-f0b1ca57356c" alt="linux" width="75" height="75"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/0d49894a-e7dc-483b-93ee-16543a205cb9" alt="linux" width="75" height="75"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5f6a5832-99c7-4376-a06e-400af5fde270" alt="linux" width="75" height="75"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/96bb4ba7-f66c-4f9c-92ef-7004c9bc455d" alt="linux" width="75" height="75"/> </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5851b79f-6c57-4038-9d3a-76ea88361e24
-" alt="linux" width="75" height="75"/> </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4247312a-337e-4750-8036-e7aac607ee76
-" alt="linux" width="75" height="75"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5851b79f-6c57-4038-9d3a-76ea88361e24" alt="linux" width="75" height="75"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4247312a-337e-4750-8036-e7aac607ee76" alt="linux" width="75" height="75"/> </a> 
 </div>
 
 ## 📫 How to reach me:
