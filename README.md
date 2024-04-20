@@ -35,22 +35,25 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/bda89776-f6d7-46e7-97a9-09a201e766c3" alt="react" width="75" height="75"/> </a>  
               <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
-             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/695be60c-0795-4e61-b694-6fd71a97e7b5" alt="react" width="75" height="75"/> </a> 
+             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/19e821f7-a10b-43d4-a15e-8250c5ba40cb" alt="react" width="75" height="75"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/02123b92-ec39-4e35-82c1-9a5dc5b7d0b5" alt="react" width="75" height="75"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/783a4ef1-665a-4199-acc8-623ed9084df9" alt="linux" width="75" height="75"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/be325712-7df8-4c5e-a7d8-93da3142d977" alt="linux" width="75" height="75"/> </a> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/636aba36-d411-4bff-8a12-b1c347f20ea3" alt="linux" width="75" height="75"/> </a> 
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/80259d23-f508-47b7-b05b-0120283b96d7" alt="linux" width="75" height="75"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4f4b877d-8e62-4979-97f3-c7b2601ac0da" alt="linux" width="75" height="75"/> </a> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/9f2a746c-fac1-4c53-8604-23936f92418c" alt="linux" width="75" height="75"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/0d49894a-e7dc-483b-93ee-16543a205cb9" alt="linux" width="75" height="75"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5f6a5832-99c7-4376-a06e-400af5fde270" alt="linux" width="75" height="75"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/96bb4ba7-f66c-4f9c-92ef-7004c9bc455d" alt="linux" width="75" height="75"/> </a> 
-
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5851b79f-6c57-4038-9d3a-76ea88361e24
+" alt="linux" width="75" height="75"/> </a> 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4247312a-337e-4750-8036-e7aac607ee76
+" alt="linux" width="75" height="75"/> </a> 
 </div>
 
 ## 📫 How to reach me:
-You can reach me on:
-[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" alt="linux" width="42" height="42"/>  ](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png) [<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" alt="linux" width="42" height="42"/> ](parsab71@gmail.com)
+[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" alt="linux" width="64" height="64"/>  ](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png) 
+[<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" alt="linux" width="64" height="64"/> ](parsab71@gmail.com)
 
