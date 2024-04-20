@@ -1,4 +1,4 @@
-### Hello there welcome! 👋
+![html-5-svgrepo-com](https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4c2d8d5b-90a7-4f22-a660-3b6a32f022f0)### Hello there welcome! 👋
 <!--
 **ParsaBordbar/ParsaBordbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,14 +26,18 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 
  Here is the tools I've experienced working with:
 <div display="flex" justify="center" >
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/2f4f7601-5b5a-4cea-821a-66c37c20e520![html-5-svgrepo-com](https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/ed203ee3-7f74-405d-8d7e-7aa36c507c4b)
+" alt="react" width="75" height="75"/> </a> 
+     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/2f4f7601-5b5a-4cea-821a-66c37c20e520" alt="react" width="75" height="75"/> </a> 
+        
     
 </div>
 
@@ -42,4 +46,9 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 You can reach me on:
 [Telegram](https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png)
 [Gmail](parsab71@gmail.com)
+
+
+
+
+
 
