@@ -47,7 +47,7 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/636aba36-d411-4bff-8a12-b1c347f20ea3" alt="linux" width="75" height="75"/> </a> 
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/80259d23-f508-47b7-b05b-0120283b96d7" alt="linux" width="75" height="75"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/3fb6d12b-7ff6-498a-9ff9-46518e7cdb95" alt="linux" width="75" height="75"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5f6a5832-99c7-4376-a06e-400af5fde270" alt="linux" width="75" height="75"/> </a> 
+<a href="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4e9f0e08-880b-44ee-ad52-85d2be83b108" alt="linux" width="75" height="75"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/96bb4ba7-f66c-4f9c-92ef-7004c9bc455d" alt="linux" width="75" height="75"/> </a> 
 
 </div>
