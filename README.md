@@ -35,9 +35,9 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/bda89776-f6d7-46e7-97a9-09a201e766c3" alt="react" width="75" height="75"/> </a>  
               <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
-             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/aedcb1e8-4e40-42b1-94b5-14055bc04bff
+             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/695be60c-0795-4e61-b694-6fd71a97e7b5
 " alt="react" width="75" height="75"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/d3524580-8783-4a71-9863-4acd925ec5b4
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/02123b92-ec39-4e35-82c1-9a5dc5b7d0b5
 " alt="react" width="75" height="75"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/783a4ef1-665a-4199-acc8-623ed9084df9" alt="linux" width="75" height="75"/> </a> 
