@@ -1,4 +1,4 @@
-![html-5-svgrepo-com](https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4c2d8d5b-90a7-4f22-a660-3b6a32f022f0)### Hello there welcome! 👋
+### Hello there welcome! 👋
 <!--
 **ParsaBordbar/ParsaBordbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
  Here is the tools I've experienced working with:
 <div display="flex" justify="center" >
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/4c2d8d5b-90a7-4f22-a660-3b6a32f022f0" alt="javascript" width="75" height="75"/> </a> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/2f4f7601-5b5a-4cea-821a-66c37c20e520![html-5-svgrepo-com](https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/ed203ee3-7f74-405d-8d7e-7aa36c507c4b)
 " alt="react" width="75" height="75"/> </a> 
