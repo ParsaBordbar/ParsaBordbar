@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨🏻‍💻 Who am I?
-I'm a j web Developer, who is interested in coding and computers, specially web, video games and A.I. . 
+I'm a web Developer, who is interested in coding and computers, specially web, video games and A.I. . 
 I'm also a student in CS. LOVE to make unique things and designs. 
 Interested in art, cinema and storytelling. Love exploring new fields and Ideas, open to learn new things and have fun in coding! 
 
