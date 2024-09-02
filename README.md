@@ -30,7 +30,7 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/b2868ef7-4dab-4203-90c8-413781e6c0a6" alt="react" width="75" height="75"/>
 <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/b47e9fa5-3be6-4fce-b953-2868a952f070" alt="react" width="75" height="75"/> 
 <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5508064f-0974-4b5a-a08f-0fccb45efa33" alt="react" width="75" height="75"/>
-<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/11046901-12e5-48cf-99ef-f1d06d34354d" alt="linux" width="75" height="75"/>
+<img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/11046901-12e5-48cf-99ef-f1d06d34354d"  width="75" height="75"/>
 <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/20345247-c8a2-4da1-9beb-faf1967cc38b" alt="react" width="75" height="75"/> 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/>
 <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/bda89776-f6d7-46e7-97a9-09a201e766c3" alt="react" width="75" height="75"/> 
@@ -54,7 +54,7 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 </div>
 
 ## 📫 How to reach me:
-
-<a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" alt="linux" width="75" height="64"/> </a>
-<a href="parsab71@gmail.com"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" alt="linux" width="75" height="64" /> 
+📧 [parsab71@gamil.com]
+<a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="75" height="64"/> </a>
+<a href="parsab71@gmail.com"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="75" height="64" /> 
 </a>
