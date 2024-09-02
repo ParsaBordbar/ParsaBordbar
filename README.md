@@ -55,7 +55,8 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 
 ## 📫 How to reach me:
 <a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="75" height="64"/> </a>
-<a href="parsab71@gmail.com"> <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="75" height="64" /> 
-<a href="https://www.linkedin.com/in/parsa-bordbar"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="75" height="64"/> </a>
+<a href="mailto:parsab71@gmail.com"> 
+  <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="75" height="64" /> 
 </a>
-
+<a href="https://www.linkedin.com/in/parsa-bordbar"><img src="https://github.com/user-attachments/assets/5b627b56-47be-4d14-906b-104f3e88d0a5"  width="75" height="64"/> </a>
+</a>
