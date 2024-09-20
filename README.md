@@ -74,10 +74,10 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 # 📫 How to reach me:
-<a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="75" height="64"/> </a>
+<a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="42" height="42"/> </a>
 <a href="mailto:parsab71@gmail.com"> 
-  <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="75" height="64" /> 
+  <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="42" height="42" /> 
 </a>
 <a href="https://www.linkedin.com/in/parsa-bordbar">
- <img src="https://img.icons8.com/color/480/linkedin.png"  width="75"></a>
+ <img src="https://img.icons8.com/color/480/linkedin.png"  width="42" height="42"></a>
 </a>
