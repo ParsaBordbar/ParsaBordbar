@@ -24,7 +24,6 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
 
 ## 🪛 What tools I use? 
  Here is the tools I've experienced working with:
-Here’s your tech stack ordered by category:
 
 ### Front-end Related:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
