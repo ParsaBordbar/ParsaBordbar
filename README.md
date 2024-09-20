@@ -79,5 +79,5 @@ Well I've two and half years of web-dev specially front-end, I have experienced 
   <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="42" height="42" /> 
 </a>
 <a href="https://www.linkedin.com/in/parsa-bordbar">
- <img src="https://img.icons8.com/color/480/linkedin.png"  width="42" height="42"></a>
+ <img src="https://img.icons8.com/color/480/linkedin.png"  width="64" height="64"></a>
 </a>
