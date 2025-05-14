@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏻‍💻 Who am I?
+## 👨🏻‍💻 Who Am I?
 I'm a web Developer, who is interested in coding and computers, specially web, video games and A.I. . 
 I'm also a student in CS. LOVE to make unique things and designs. 
 Interested in art, cinema and storytelling. Love exploring new fields and Ideas, open to learn new things and have fun in coding! 
 
-## 🚀 What can I do?
+## 🚀 What Can I Do?
 Well I've three and half years of web-dev, I have experienced in working with others, write and debuging in diferent languages, I've some teaching background and I have my on side projects and interests, You can check my repos for more info on that. My expertise is web but as a CS student I have other useful skills too. I'm currently learning AI as my major and I have devloped an intrest in devloping vide games.
 
-## 🪛 What tools I use? 
+## 🪛 What Tools I Use? 
  Here is the tools I've experienced working with:
 
-### Front-end Related:
+### Front-End Related:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,7 +43,7 @@ Well I've three and half years of web-dev, I have experienced in working with ot
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-### Back-end Related:
+### Back-End Related:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,7 +62,7 @@ Well I've three and half years of web-dev, I have experienced in working with ot
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Other Tools and Utilities:
+### Other Tools & Utilities:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -79,7 +79,7 @@ Well I've three and half years of web-dev, I have experienced in working with ot
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-# 📫 How to reach me:
+# 📫 How To Reach Me:
 <a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="64" height="64"/> </a>
 <a href="mailto:parsab71@gmail.com"> 
   <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="64" height="64" /> 
