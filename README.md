@@ -97,7 +97,7 @@ Looking for contrubiuting more!
 
 
 # 📫 How To Reach Me:
-<p align="center">
+<p align="left">
   <a href="https://t.me/They_callme_Parsa">
     <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" width="64" height="64" alt="Telegram" />
   </a>
