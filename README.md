@@ -90,17 +90,24 @@ Looking for contrubiuting more!
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-#### Currently Learning:
+### Currently Learning:
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 # 📫 How To Reach Me:
-<a href="https://t.me/They_callme_Parsa"><img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a"  width="64" height="64"/> </a>
-<a href="mailto:parsab71@gmail.com"> 
-  <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="64" height="64" /> 
-</a>
-<a href="https://www.linkedin.com/in/parsa-bordbar">
- <img src="https://img.icons8.com/color/480/linkedin.png"  width="70" height="70"></a>
-</a>
+<p align="center">
+  <a href="https://t.me/They_callme_Parsa">
+    <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/fb86d3f3-9163-4f51-a581-1e2038a52a1a" width="64" height="64" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:parsab71@gmail.com">
+    <img src="https://github.com/ParsaBordbar/ParsaBordbar/assets/124056966/5b80856c-205d-41e8-88a4-2a4901ee4037" width="64" height="64" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parsa-bordbar">
+    <img src="https://img.icons8.com/color/480/linkedin.png" width="64" height="64" alt="LinkedIn" />
+  </a>
+</p>
+
