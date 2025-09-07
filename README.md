@@ -94,7 +94,7 @@ Looking for contrubiuting more!
 
 ### Currently Learning:
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
