@@ -73,7 +73,7 @@ Looking for contrubiuting more!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Pandas-%23FF6F00.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 
