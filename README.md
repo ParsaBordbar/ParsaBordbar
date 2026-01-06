@@ -43,6 +43,7 @@ Looking for contrubiuting more!
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-FFB300?style=for-the-badge&logo=zustand&logoColor=black)
 
 
 ### Back-End Related:
@@ -60,6 +61,7 @@ Looking for contrubiuting more!
 ![Pug](https://img.shields.io/badge/pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![the-graph](https://img.shields.io/badge/The%20Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white)
 
 
 ### Databases:
@@ -88,10 +90,11 @@ Looking for contrubiuting more!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![bun](https://img.shields.io/badge/bun-6DA55F?style=for-the-badge&logo=bun&logoColor=white)
+![bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
+![cargo](https://img.shields.io/badge/Cargo-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![uv](https://img.shields.io/badge/uv-7C3AED?style=for-the-badge&logo=uv&logoColor=white)
 
 ### Other Languages I've Used For Fun!
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
